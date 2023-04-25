@@ -1,11 +1,15 @@
 # KOTH - Repositório de correção de vulnerabilidades
 
-// O KOTH é uma competição hacker que desafia os participantes a identificarem e corrigirem vulnerabilidades em um sistema. Ao contrário de outras competições, no KOTH é preciso defender o sistema além de atacá-lo.
+// O KOTH é uma competição hacker que desafia os participantes a identificarem 
+e corrigirem vulnerabilidades em um sistema. Ao contrário de outras competições, no KOTH é preciso defender o sistema além de atacá-lo.
 
-// Os jogadores precisam levantar o máximo de informações sobre possíveis brechas, corrigi-las e evitar que outros hackers tenham acesso ao sistema.
+// Os jogadores precisam levantar o máximo de informações
+sobre possíveis brechas, corrigi-las e evitar que outros hackers tenham acesso ao sistema.
 
 
-# Em partidas de KOTH, não prevalece aquele que melhor sabe atacar, mas sim aquele que melhor sabe defender. A fase de correção é fundamental para o entendimento do praticante de cibersegurança em relação à inteligência de ameaças cibernéticas.
+# Em partidas de KOTH, não prevalece aquele que melhor sabe atacar,
+mas sim aquele que melhor sabe defender. A fase de correção é fundamental
+para o entendimento do praticante de cibersegurança em relação à inteligência de ameaças cibernéticas.
 
 
 # Neste repositório, você encontrará técnicas fundamentais e avançadas para:
@@ -19,6 +23,8 @@
 
 // Compreendendo esses tópicos, você estará apto a saber se foi ou está sendo hackeado e como prosseguir caso tenha sido comprometido.
 
-// Para ilustrar essas técnicas, utilizamos um jogo muito simples. A aplicação dos métodos utilizados no koth permite que você tenha uma experiência realística de como ocorre um ataque na prática e na teoria.
+// Para ilustrar essas técnicas, utilizamos um jogo muito simples. A aplicação dos métodos utilizados no koth
+permite que você tenha uma experiência realística de como ocorre um ataque na prática e na teoria.
 
-// Este repositório é uma iniciativa de dois amigos que buscam compartilhar conhecimento e promover a segurança na internet. Sinta-se livre para contribuir e melhorar o nosso repositório. Juntos, podemos tornar a internet um lugar mais seguro!
+// Este repositório é uma iniciativa de dois amigos que buscam compartilhar conhecimento
+e promover a segurança na internet. Sinta-se livre para contribuir e melhorar o nosso repositório. Juntos, podemos tornar a internet um lugar mais seguro!
