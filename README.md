@@ -1,7 +1,7 @@
 # PATCH
 
 ## Patch em maquinas
-// aquela coisa chata
+// Patch em Koth
 
 patch literalmente significa “remendo”, “esparadrapo”, ou seja, um fragmento utilizado para consertar 
 ou remendar algo. Na prática, trata-se de programas que visam fazer correções de erros e bugs em softwares. 
