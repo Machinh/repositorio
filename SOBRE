@@ -1,26 +1,24 @@
-# Sobre o patch:
-// explicaçao
+# KOTH - Repositório de correção de vulnerabilidades
 
-Patch em Koth: (king of the hill ou rei da colina)
+// O KOTH é uma competição hacker que desafia os participantes a identificarem e corrigirem vulnerabilidades em um sistema. Ao contrário de outras competições, no KOTH é preciso defender o sistema além de atacá-lo.
 
-// O king of the hill é um desafio hacker do qual não é suficiente que apenas comprometa o sistema em questão.
-No koth, Faz-se necessário levantar o Máximo de informações sobre possíveis brechas no sistema,
-para que outros hackers da competição tambem ganhem acesso e removam o que você conquistou.
- 
-# Em partidas de koth sempre prevalecerá não aquele que melhor souber atacar, Sim, Sempre aquele melhor souber defender.
+// Os jogadores precisam levantar o máximo de informações sobre possíveis brechas, corrigi-las e evitar que outros hackers tenham acesso ao sistema.
 
-// A fase de correção Para um praticante de cibersegurança,
-É de fato a parte do desafio que mais agrega em seu entendimento em relaçao a inteligencia de ameaças ciberneticas.
 
-// no Koth, patch e uma jogada frustante, voçe fica contra a parede, cercado sem conseguir entrar no sistema.
-# Depois da escalaçao de privilegio, patch e a primeira coisa que voçe deve fazer para tomar posse do sistema
-e evitar que outros hackers consigam entrar e ganhem acesso ao sistema, assim pegando rei
+# Em partidas de KOTH, não prevalece aquele que melhor sabe atacar, mas sim aquele que melhor sabe defender. A fase de correção é fundamental para o entendimento do praticante de cibersegurança em relação à inteligência de ameaças cibernéticas.
 
-// patch na pratica
-# A primeira funçao do patch e corrigir bugs, vulnerabilidades no sistema que fazem hackers poderem acessar o sistema.
-sem as vulnerabilidades sem acesso, sem acesso... sem rei
 
-// Patch e sobre como corrigir vulnerabilidades, corrigindo as vulnerabilidades voçe encurala quem quer que seja,
-// Mesmo se for um hacker que saiba muitas tricks, ele nao vai poder fazer nada se nao puder entrar no sistema.
+# Neste repositório, você encontrará técnicas fundamentais e avançadas para:
 
-// E uma briga entre quem sabe corrigir mais vulnerabilidades e quem consegue invadir melhor 
+// - Identificar vulnerabilidades e avaliar seu risco;
+// - Eliminar vetores de acesso;
+// - Descobrir se o sistema está comprometido e encontrar a origem do acesso;
+// - Identificar processos suspeitos e eliminá-los.
+
+// As técnicas ensinadas aqui são importantes para o desenvolvimento da sua segurança como um usuário da internet.
+
+// Compreendendo esses tópicos, você estará apto a saber se foi ou está sendo hackeado e como prosseguir caso tenha sido comprometido.
+
+// Para ilustrar essas técnicas, utilizamos um jogo muito simples. A aplicação dos métodos utilizados no koth permite que você tenha uma experiência realística de como ocorre um ataque na prática e na teoria.
+
+// Este repositório é uma iniciativa de dois amigos que buscam compartilhar conhecimento e promover a segurança na internet. Sinta-se livre para contribuir e melhorar o nosso repositório. Juntos, podemos tornar a internet um lugar mais seguro!
