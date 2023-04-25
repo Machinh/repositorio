@@ -15,3 +15,10 @@ para que outros hackers da competição tambem ganhem acesso e removam o que voc
 // no Koth, patch e uma jogada frustante, voçe fica contra a parede, cercado sem conseguir entrar no sistema.
 # Depois da escalaçao de privilegio, patch e a primeira coisa que voçe deve fazer para tomar posse do sistema
 e evitar que outros hackers consigam entrar e ganhem acesso ao sistema, assim pegando rei
+
+// patch na pratica
+# A primeira funçao do patch e corrigir bugs, vulnerabilidades no sistema que fazem hackers poderem acessar o sistema.
+sem as vulnerabilidades sem acesso, sem acesso... sem rei
+
+// patch e sobre como corrigir vulnerabilidades, corrigindo as vulnerabilidades voçe encurala quem quer que seja,
+//mesmo se for um hacker que saiba tantas tricks, ele nao vai poder fazer nada se nao puder entrar no sistema.
